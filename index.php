@@ -31,7 +31,7 @@ if( isset($_SESSION['user_id']) ){
 <body>
 
 	<div class="header">
-		<a href="/">Login App</a>
+		<a href="/">PHP Harjoitus</a>
 	</div>
 
 	<?php if( !empty($user) ): ?>

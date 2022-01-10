@@ -6,12 +6,12 @@ body{
 }
 
 input[type="text"], input[type="password"]{
-	outline:none;
+	outline:#00b8eb;
 	padding:10px;
 	display:block;
-	width:300px;
-	border-radius: 3px;
-	border:1px solid #eee;
+	width:200px;
+	border-radius: 5px;
+	border:1px solid #0098cb;
 	margin:20px auto;
 }
 
